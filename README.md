@@ -25,12 +25,13 @@ userId	      Gender	 Age	 Occupation 	ZipCode<br
 
 <b>DATASET<b>:https://grouplens.org/datasets/movielens/<br>
                                                      
-# Deep Autoencoders for Collaborative Filtering
+# Deep Autoencoders for Collaborative Filtering<br>
                                                     
 The traditional CF methods are usually in a linear manner and they cannot fully explore the potential information that is contained in the interaction matrices.
 CF-based recommender systems, a big challenge is the sparsity problem and it is common that more than 90% of values are missing in some datasets
-We use deep autoencoder for collabrative filtering to overcome this use.<br>
-An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
+We use deep autoencoder for collabrative filtering to overcome this use.<br><br>
+An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner.
+<br><br>The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
 collaborative approach recommendations are made based on items consumed by users  and preferences are similar to that of the referred user.<br>
 
 # Hybrid Model
