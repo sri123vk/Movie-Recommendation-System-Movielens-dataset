@@ -41,6 +41,15 @@ We  stack the individual models Content based Filtering model and Single value d
 Run Content based filtering and determine the movies which we want to recommend to the user.<br>
 Filter and sort the recommendations of CF using SVD predicted ratings.<br>
 
+# Pytorch Tensor
+
+PyTorch supports dynamic computation graphs that allow you to change how the network behaves on the fly, unlike static graphs that are used in frameworks such as Tensorflow.<br>
+<br><b>Pytorch=Numpy, with strong GPU acceleration</b><br><br>
+PyTorch is a Python-based scientific computing package that uses the power of graphics processing units. It is also one of the preferred deep learning research platforms built to provide maximum flexibility and speed.<br><br>
+It is known for providing two of the most high-level features; namely, tensor computations with strong GPU acceleration support and building deep neural networks <br>
+
+
+
 
                                                     
                                                     
