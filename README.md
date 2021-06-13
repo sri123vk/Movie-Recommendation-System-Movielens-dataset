@@ -23,7 +23,7 @@ userId		movieId		Rating	  timestamp<br>
 User.csv that contains user information<br>
 userId	      Gender	 Age	 Occupation 	ZipCode<br
 
-DATASET:https://grouplens.org/datasets/movielens/<br>
+<b>DATASET<b>:https://grouplens.org/datasets/movielens/<br>
                                                      
 # Deep Autoencoders for Collaborative Filtering
                                                     
